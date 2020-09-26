@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Honors & Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "University of Pennsylvania Phi Beta Kappa society"
+  date_start = "2014"
+  description = "Elected as a junior"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  organization = "University of Pennsylvania"
+  title = "Roy and Diana Vagelos Science Challenge Award"
+  date_start = "Fall 2014"
+  date_end = "Spring 2015"
+  description = "Full Tuition Scholarship"
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "University of Pennsylvania Department of Physics & Astronomy"
+  title = "William E. Stephens Memorial Prize "
+  date_start = "2015"
+  description = """Awarded annually to the graduating physics major who has demonstrated, during the course of his or her undergraduate course work, the most promise for a successful career as a scientist based on overall performance in all aspects of the undergraduate program as judged by members of the Physics and Astronomy faculty."""
 
 +++
