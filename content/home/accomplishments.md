@@ -34,6 +34,18 @@ date_format = "Jan 2006"
   organization = "University of Pennsylvania Department of Physics & Astronomy"
   title = "William E. Stephens Memorial Prize "
   date_start = "2015"
-  description = """Awarded annually to the graduating physics major who has demonstrated, during the course of his or her undergraduate course work, the most promise for a successful career as a scientist based on overall performance in all aspects of the undergraduate program as judged by members of the Physics and Astronomy faculty."""
+  description = """*Awarded annually to the graduating physics major who has demonstrated, during the course of his or her undergraduate course work, the most promise for a successful career as a scientist based on overall performance in all aspects of the undergraduate program as judged by members of the Physics and Astronomy faculty.*"""
+
+[[item]]
+  organization = "University of California, Santa Barbara Department of Physics"
+  title = "Worster Summer Research Fellowship, 2017 and 2019 "
+  date_start = ""
+  description = """A competitive award to fund summer research for undergrads in physics working with graduate students. Awarded 2017 for work with Aidan Herderschee on massive on-shell amplitudes, and 2019 for work with Umut Can Oktem on collider searches utilizing the Higgs as a tagging object.""" 
+
+[[item]]
+  organization = "University of California, Santa Barbara Graduate Student Association"
+  title = "Excellence in Teaching Award"
+  date_start = "2019"
+  description = """*This award recognizes the contributions of outstanding graduate students who have shown excellence in their role as a teaching assistant toward the teaching mission of UC Santa Barbara.* Awarded annually to a handful of TAs university-wide.""" 
 
 +++
