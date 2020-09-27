@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like physics.
+bio: 
 
 interests:
-- Particle Theory
-- Computational Linguistics
-- Information Retrieval
+- Comedy
+- Avant-garde
+- Pedagogy
 
 education:
   courses:
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:sethk@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sethk@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: inspire
   icon_pack: ai
   link: https://inspirehep.net/author/profile/S.Koren.1
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Seth Koren is an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of the University of Chicago. He maintains diverse interests in the intersection of high energy theory with the real world, broadly defined.
+I'm a theoretical physicist working at the junction of high energy theory and the real world. I have broad research interests across many aspects of particle physics, the universe, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
