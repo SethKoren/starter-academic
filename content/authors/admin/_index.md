@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Comedy
-- Avant-garde
 - Pedagogy
+- Avant-garde Media
+- British Comedy
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a theoretical physicist working at the junction of high energy theory and the real world. I have broad research interests across many aspects of particle physics, the universe, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
+I'm a theoretical physicist working at the junction of high energy theory and the real world. I have broad interests across many aspects of particle physics, the universe, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
