@@ -18,27 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio: 
 
-interests:
-- Pedagogy
-- Avant-garde Media
-- British Comedy
+#interests:
+#- Pedagogy
+#- Colorful art 
+#- No More Jockeys
 
-education:
-  courses:
-  - course: PhD in Physics
-    institution: University of California, Santa Barbara
-    year: 2020
-  - course: MA in Physics
-    institution: University of California, Santa Barbara
-    year: 2017
-  - course: MS in Physics
-    institution: University of Pennsylvania
-    year: 2015
-  - course: BA in Physics and Mathematics
-    institution: University of Pennsylvania
-    year: 2015
+#education:
+#  courses:
+#  - course: PhD in Physics
+#    institution: University of California, Santa Barbara
+#    year: 2020
+#  - course: MA in Physics
+#    institution: University of California, Santa Barbara
+#    year: 2017
+#  - course: MS in Physics
+#    institution: University of Pennsylvania
+#    year: 2015
+#  - course: BA in Physics and Mathematics
+#    institution: University of Pennsylvania
+#    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,4 +72,5 @@ user_groups:
 
 I'm a theoretical physicist working at the junction of high energy theory and the real world. I have broad interests across many aspects of particle physics, the universe, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
 
-I obtained my doctorate in summer 2020 under the supervision of Nathaniel Craig, with a thesis focused on novel approaches to the hierarchy problem. My thesis includes an extensive introduction to renormalization, the hierarchy problem, classic frameworks to approach it, and more recent work, and can be viewed [on the arXiv here](http://arxiv.org/abs/2009.11870). I've now moved to Chicago as a postdoctoral fellow.
+I obtained my doctorate in summer 2020 under the supervision of Nathaniel Craig, with a thesis focused on novel approaches to the hierarchy problem.       
+I'm rather proud of the extensive introductory chapters I wrote explaining renormalization and the hierarchy problem, and reviewing classic solutions as well as more recent work. Considerable focus is placed on clearing conceptual pitfalls and on debunking common misconsceptions. It can be viewed [on the arXiv here](http://arxiv.org/abs/2009.11870).      
