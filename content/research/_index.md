@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Research
 
 # View.
 #   1 = List
@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-I have some publications.
+I will write some things here at an accssible level about some of my work.

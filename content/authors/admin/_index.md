@@ -72,5 +72,9 @@ user_groups:
 
 I'm a theoretical physicist working at the junction of high energy theory and the real world. I have broad interests across many aspects of particle physics, the universe, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
 
-I obtained my doctorate in summer 2020 under the supervision of Nathaniel Craig, with a thesis focused on novel approaches to the hierarchy problem.       
-I'm rather proud of the extensive introductory chapters I wrote explaining renormalization and the hierarchy problem, and reviewing classic solutions as well as more recent work. Considerable focus is placed on clearing conceptual pitfalls and on debunking common misconsceptions. It can be viewed [on the arXiv here](http://arxiv.org/abs/2009.11870).      
+I obtained my doctorate in summer 2020 under the supervision of Nathaniel Craig, with a thesis focused on novel approaches to the hierarchy problem.      
+ 
+My thesis begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem. 
+Considerable focus is placed on clearing conceptual pitfalls and on debunking common misconsceptions. 
+It can be viewed [on the arXiv here](http://arxiv.org/abs/2009.11870).      
+I've been flattered to have heard now from a surprisingly-wide array of graduate students that they've found it has clarified concepts that had long confused them.
