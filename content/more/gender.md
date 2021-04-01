@@ -1,6 +1,6 @@
 ---
-title: Neuroendocrinology and... gender nonconformity?
-linktitle: Neuroendocrinology and... gender nonconformity?
+title: Neuroendocrinology and nonconformity
+linktitle: Neuroendocrinology and nonconformity
 type: book
 date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
