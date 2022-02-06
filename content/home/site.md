@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-This is emphatically not one of those academic websites where you learn that I always knew I wanted to do physics,
-or I won national science/math/other contests in high school, or I got a scholarship to my first-choice unversity, or I received a succession of awards thereafter---with 
+This is emphatically not one of those academic websites where you learn that I always knew I wanted to do physics;
+or I won national science/math/other contests in high school; or I got a scholarship to my first-choice unversity; or I received a succession of awards thereafter---with 
 each fellowship then making it more likely I'd win the next such award---or I solved some longstanding open problem as an undergraduate, 
 and then you go away a bit awed and feeling like maybe you aren't sure that you can make it as a scientist yourself. There are enough such websites you may visit.  
 
 It is instead my intention to be raw and unfiltered, to be honest about myself and my experiences in and out of academia, 
 and to therefore reflect accurately the reality that you don't have to have done everything right, or have the same experiences as others, 
-or look any particular way to be a good physicist. I expand on this motivation elsewhere.
+or look any particular way, or be neurotypical to be a good physicist. I expand on this motivation elsewhere. 

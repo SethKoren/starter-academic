@@ -14,4 +14,5 @@ header:
   image: ""
 ---
 
-I will write some things here at an accssible level about some of my work.
+I will write some things here at an accessible level about some of my work. 
+For now, my publications can be viewed on [inspireHEP](https://inspirehep.net/authors/1503310).

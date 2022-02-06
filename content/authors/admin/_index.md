@@ -20,10 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-#interests:
-#- Pedagogy
-#- Colorful art 
+#My aesthetic:
 #- No More Jockeys
+#- It's Garry Shandling's Show
+#- Mr. Show w/ Bob & David
+#- Ah Um
+#- bill wurtz
+#- Pet Sounds
+#- The Rainbow Goblins
+#- Broadway Boogie-Woogie
+#- Rene and Georgette Magritte With Their Dog After the War
+#- Kraftwerk
 
 #education:
 #  courses:
@@ -33,10 +40,7 @@ organizations:
 #  - course: MA in Physics
 #    institution: University of California, Santa Barbara
 #    year: 2017
-#  - course: MS in Physics
-#    institution: University of Pennsylvania
-#    year: 2015
-#  - course: BA in Physics and Mathematics
+#  - course: BA in Physics and Mathematics; MS in Physics
 #    institution: University of Pennsylvania
 #    year: 2015
 
@@ -70,9 +74,11 @@ user_groups:
 - Visitors
 ---
 
-I'm a theoretical physicist working at the junction of high energy theory and the real world. I have broad interests across many aspects of particle physics, the universe, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
+I'm a theoretical physicist working at the junction of high energy theory and the real world. 
+I have broad interests across many aspects of particle physics, cosmology, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
 
-I obtained my doctorate in summer 2020 under the supervision of Nathaniel Craig, with a thesis focused on novel approaches to the hierarchy problem.      
+I obtained my doctorate in summer 2020 under the supervision of Nathaniel Craig, with a thesis focused on novel approaches to the hierarchy problem.   
+This was honored with the American Physical Society's 2022 [Sakurai Dissertation Award in Theoretical Particle Physics](https://www.aps.org/programs/honors/prizes/particle.cfm). 
  
 My thesis begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem. 
 Considerable focus is placed on clearing conceptual pitfalls and on debunking common misconsceptions. 
