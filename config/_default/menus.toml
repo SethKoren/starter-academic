@@ -30,7 +30,7 @@
   url = "files/skcvpublic.pdf"
   weight = 100
 
-[[main]]
-  name = "Q&A"
-  url = "/questions"
-  weight = 80
+#[[main]]
+#  name = "Q&A"
+#  url = "/questions"
+#  weight = 80
