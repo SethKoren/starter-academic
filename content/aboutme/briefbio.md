@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 05  # Order that this section will appear.
 
 title = "A Bit About Me"
-subtitle = ""
+subtitle = "A brief biographical sketch of my development as a scientist"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,18 +49,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-I grew up outside Philadelphia and became interested in science in high school. 
-I attended the University of Pennsylvania and was amazed to learn that physics was something that people were still doing and discovering and understanding, and perhaps something that I could do as well.
+I grew up outside Philadelphia and became interested in science in high school, but went to the University of Pennsylvania for undergrad intending to get dual degrees from the College of Arts & Sciences and from Wharton, the business school. 
+Seeing college-level science classes for the first time, I was amazed to learn that physics was something that people were still doing and discovering and understanding, and perhaps something that I could do as well. Mid-way through my sophomore year, I decided I wanted to spend my time in college learning about the universe, and withdrew from the Wharton program.
 
-My first such opportunity was kindly provided by Prof. Cullen Blake, who gave me the chance to help him search for and characterize low-mass binary stars and exoplanets, and I was hooked. 
-At Penn it was hard not to develop an interest in cosmology, and an REU gave me the opportunity to work with Prof. Ned Wright at UCLA (okay, on asteroid thermophysics, but regardless).
-Learning quantum mechanics amazed me, and after choosing for my assigned quantum mechanics book report (yes, really) *The Ideas of Particle Physics* by Coughlan, Dodd and Gripaios I wanted more.
+My first research opportunity was kindly provided by Prof. Cullen Blake, who gave me the chance to help him search for and characterize low-mass binary stars and exoplanets, and I was hooked. 
+At Penn it was hard not to develop an interest in cosmology, and an REU gave me the opportunity to work with Prof. Edward Wright at UCLA (okay, on asteroid thermophysics, but Ned exudes cosmology regardless).
+Learning quantum mechanics my junior year amazed me, and after choosing for my assigned quantum mechanics book report (yes, really) *The Ideas of Particle Physics* by Coughlan, Dodd and Gripaios I wanted more.
 
 I decided to attend graduate school at UC Santa Barbara to work with Prof. Nathaniel Craig, intent on broadening my horizons. 
 In graduate school I became interested in many topics in high energy theory, and I've published work on collider phenomenology, on particle cosmology, on astroparticle physics, on particle theory beyond the Standard Model, and more. My thesis was focused on novel approaches to the hierarchy problem.  
-I've enjoyed mentoring undergraduates interested in particle physics, and was awarded fellowships for summer research with undergrads twice, have published five papers with three students who are all now in grad school themselves.
+I've enjoyed mentoring undergraduates interested in particle physics, was awarded fellowships for summer research with undergrads twice, and have published five papers with three students who are all now in grad school themselves.
 I've also enjoyed teaching, and was involved in revamping the quantum mechanics course at UCSB to utilize active learning methods as a way to manage the challenge of a junior-level quantum class with ~150 students.
 I thereafter was awarded an Excellence in Teaching award from the university-wide Graduate Student Association.
 
 I defended, graduated, and moved mid-pandemic to Chicago as an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of UChicago.
-In spring 2021 I lead an undergraduate reading seminar on introductory particle physics emphasizing quantum mechanical concepts and ending with a final project using MadGraph/Pythia/MadAnalysis to discover the Higgs from ATLAS data on VBF diphoton decays.
+In spring 2021 I lead an undergraduate reading seminar on introductory particle physics emphasizing quantum mechanical concepts and ending with a final project using collider simulation software to discover the Higgs from ATLAS data on VBF diphoton decays.
