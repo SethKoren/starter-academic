@@ -53,7 +53,7 @@ I grew up outside Philadelphia and became interested in science in high school, 
 Seeing college-level science classes for the first time, I was amazed to learn that physics was something that people were still doing and discovering and understanding, and perhaps something that I could do as well. Mid-way through my sophomore year, I decided I wanted to spend my time in college learning about the universe, and withdrew from the Wharton program.
 
 My first research opportunity was kindly provided by Prof. Cullen Blake, who gave me the chance to help him search for and characterize low-mass binary stars and exoplanets, and I was hooked. 
-At Penn it was hard not to develop an interest in cosmology, and an REU gave me the opportunity to work with Prof. Edward Wright at UCLA (okay, on asteroid thermophysics, but Ned exudes cosmology regardless).
+At Penn it was hard not to develop an interest in cosmology, and an REU gave me the opportunity to work with Prof. Edward Wright at UCLA (okay, on asteroid thermophysics, but Dr. Wright exudes cosmology regardless).
 Learning quantum mechanics my junior year amazed me, and after choosing for my assigned quantum mechanics book report (yes, really) *The Ideas of Particle Physics* by Coughlan, Dodd and Gripaios I wanted more.
 
 I decided to attend graduate school at UC Santa Barbara to work with Prof. Nathaniel Craig, intent on broadening my horizons. 

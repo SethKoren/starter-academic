@@ -5,6 +5,6 @@ toc: FALSE
 ---
 
 Be warned, I do open up in here. 
-In particular, I speak more candidly about mental health than is often done publicly.
+In particular, I speak more candidly about mental health and neurophysiological illness than is often done publicly.
 In doing so, I hope to help normalize such conversations---which I think is really going to be needed as we collectively recover from the pandemic.
 I expand on this motivation at the end of this page.
