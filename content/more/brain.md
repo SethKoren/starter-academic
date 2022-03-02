@@ -45,9 +45,9 @@ where the nearest bathroom was. I was now constantly sleep-deprived from needing
 I likewise began having weird thermoregulation issues (in hindsight, presumably from hypothalamus damage)---my thirst could only be sated by very cold water, 
 I began getting headaches with too much time outside in the heat, at night I had to sleep under three heavy comforters.
 I had to work out how to get myself cold water at night, and it took years for my family to stop using my ice cubes without refilling the trays. 
-I had to plan routes to a bathroom and a water fountain between each class in school, and to just be embarrassed I had to constantly run across campus to try to 
+I had to plan routes to a bathroom and a water fountain between each class in school, and I had to constantly run across campus to try to 
 prevent myself from not being late to classes. I had to just try to ensure I was never in a car or a bus or a train for longer than an hour, which was impossible
-when we lived an hour outside of downtown Philadelphia and from my school in normal traffic.
+when we lived an hour outside of downtown Philadelphia and from my school in normal traffic. 
 
 Oh I should mention achronologically that there is a fantastic, and cheap, and extremely safe medication called [desmopressin](https://en.wikipedia.org/wiki/Desmopressin) 
 which now replaces the antidiuretic hormone my brain damage results in my pituary not producing. This greatly alleviates many of these symptoms, but
