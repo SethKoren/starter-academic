@@ -54,7 +54,7 @@ Seeing college-level science classes for the first time, I was amazed to learn t
 
 My first research opportunity was kindly provided by Prof. Cullen Blake, who gave me the chance to help him search for and characterize low-mass binary stars and exoplanets, and I was hooked. 
 At Penn it was hard not to develop an interest in cosmology, and an REU gave me the opportunity to work with Prof. Edward Wright at UCLA (okay, on asteroid thermophysics, but Dr. Wright exudes cosmology regardless).
-Learning quantum mechanics my junior year amazed me, and after choosing for my assigned quantum mechanics book report (yes, really---my thanks in hindsight to Prof. Paul Heiney) *The Ideas of Particle Physics* by Coughlan, Dodd and Gripaios I wanted more.
+Learning quantum mechanics my junior year amazed me, and after doing an assigned quantum mechanics book report (yes, really---my thanks in hindsight to Prof. Paul Heiney) on *The Ideas of Particle Physics* by Coughlan, Dodd and Gripaios I wanted more.
 
 I decided to attend graduate school at UC Santa Barbara to work with Prof. Nathaniel Craig, intent on broadening my horizons. 
 In graduate school I became interested in many topics in high energy theory, and I've published work on collider phenomenology, on particle cosmology, on astroparticle physics, on particle theory beyond the Standard Model, and more. 
