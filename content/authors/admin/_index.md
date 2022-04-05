@@ -77,10 +77,12 @@ user_groups:
 I'm a theoretical physicist working at the junction of high energy theory and the real world. 
 I have broad interests across many aspects of particle physics, cosmology, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
 
-I obtained my doctorate in summer 2020 under the supervision of Nathaniel Craig, with a thesis focused on novel approaches to the hierarchy problem.   
-This was honored with the American Physical Society's 2022 [Sakurai Dissertation Award in Theoretical Particle Physics](https://www.aps.org/programs/honors/prizes/particle.cfm). 
- 
-My thesis begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem. 
-Considerable focus is placed on clearing conceptual pitfalls and on debunking common misconsceptions. 
-It can be viewed [on the arXiv here](http://arxiv.org/abs/2009.11870).      
+I'm quite proud of [my dissertation](http://arxiv.org/abs/2009.11870), which begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem.
 I've been flattered to have heard now from a surprisingly-wide array of graduate students that they've found it has clarified concepts that had long confused them.
+My thesis also received the APS 2022 [Sakurai Dissertation Award in Theoretical Particle Physics](https://www.aps.org/programs/honors/prizes/particle.cfm),
+though they cared more about the sections on my actual original research. 
+ 
+# My thesis begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem. 
+# Considerable focus is placed on clearing conceptual pitfalls and on debunking common misconsceptions. 
+# It can be viewed [on the arXiv here](http://arxiv.org/abs/2009.11870).      
+# I've been flattered to have heard now from a surprisingly-wide array of graduate students that they've found it has clarified concepts that had long confused them.
