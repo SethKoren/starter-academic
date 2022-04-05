@@ -13,5 +13,5 @@ This has been aided by my uptake of antidepressants shortly before lockdown bega
 The sharpened understanding of myself as a bag of chemicals that learned to think has led to, among other things, an increased interest in the historical sciences and how our reality came to be, as discussed elsewhere on this site.
 It has also led to a revisiting of my life experiences through different lenses. As well as of my medical history. Certainly that contributed to my writing in other sections of this page.
 
-And it has also led to some reflection on my experiences with gender and the expression thereof. As you may imagine, serious neuroendocrine (that is, hormonal) disorder has some interplay there.
+And it has also led to some reflection on my experiences with gender and the expression thereof. As you may imagine, serious neuroendocrine (that is, hormonal) dysfunction has some interplay there.
 More reflection is required before I write my thoughts in depth here.
