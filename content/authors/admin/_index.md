@@ -79,7 +79,7 @@ I have broad interests across many aspects of particle physics, cosmology, field
 and I enjoy collaborating, mentoring, and other forms of talking about physics.
 
 I'm quite proud of [my dissertation](http://arxiv.org/abs/2009.11870), which begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem.
-I place considerable focus on clearing conceptual pitfalls and on debunking common misconsceptions.
+I place considerable focus on clearing conceptual pitfalls and on debunking common misconsceptions, and I've been flattered to hear that it is a useful resource for the community.
 
 My thesis also received the APS 2022 [Sakurai Dissertation Award](https://www.aps.org/programs/honors/prizes/particle.cfm) in Theoretical Particle Physics,
 though they cared more about the sections on my own research. 

@@ -55,5 +55,5 @@ or I won national science/math/other contests in high school; or I got a scholar
 and then you go away a bit awed and feeling like maybe you aren't sure that you can make it as a scientist yourself. There are enough such websites you may visit.  
 
 It is instead my intention to be raw and unfiltered, to be honest about myself and my experiences in and out of academia, 
-and to therefore reflect accurately the reality that you don't have to have done everything right, or have the same experiences as others, 
+and to therefore reflect accurately the reality that you don't have to have done everything right, or have started learning science as a toddler, 
 or look any particular way, or be neurotypical to be a good physicist. I expand on this motivation elsewhere. 
