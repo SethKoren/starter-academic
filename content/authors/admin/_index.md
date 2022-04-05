@@ -82,7 +82,3 @@ I've been flattered to have heard now from a surprisingly-wide array of graduate
 My thesis also received the APS 2022 [Sakurai Dissertation Award in Theoretical Particle Physics](https://www.aps.org/programs/honors/prizes/particle.cfm),
 though they cared more about the sections on my actual original research. 
  
-# My thesis begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem. 
-# Considerable focus is placed on clearing conceptual pitfalls and on debunking common misconsceptions. 
-# It can be viewed [on the arXiv here](http://arxiv.org/abs/2009.11870).      
-# I've been flattered to have heard now from a surprisingly-wide array of graduate students that they've found it has clarified concepts that had long confused them.
