@@ -19,6 +19,4 @@ For now, my publications can be viewed on [inspireHEP](https://inspirehep.net/au
 
 It seems my research program has become trying to learn the past half-century of theoretical physics beyond the standard model 
 and understand all the possible hints of new physics and try to point out possibilities and connections that all the brilliant 
-senior physicists who were thinking about these topics in real-time have missed.
-
-Yeah, I'm not sure how well it's going to work out either.
+senior physicists who were learning these topics in real time have missed. 

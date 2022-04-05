@@ -75,10 +75,12 @@ user_groups:
 ---
 
 I'm a theoretical physicist working at the junction of high energy theory and the real world. 
-I have broad interests across many aspects of particle physics, cosmology, field theory, and gravity, and I enjoy collaborating, mentoring, and other forms of talking about physics.
+I have broad interests across many aspects of particle physics, cosmology, field theory, and gravity, 
+and I enjoy collaborating, mentoring, and other forms of talking about physics.
 
 I'm quite proud of [my dissertation](http://arxiv.org/abs/2009.11870), which begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem.
-I've been flattered to have heard now from a surprisingly-wide array of graduate students that they've found it has clarified concepts that had long confused them.
-My thesis also received the APS 2022 [Sakurai Dissertation Award in Theoretical Particle Physics](https://www.aps.org/programs/honors/prizes/particle.cfm),
-though they cared more about the sections on my actual original research. 
+I place considerable focus on clearing conceptual pitfalls and on debunking common misconsceptions.
+
+My thesis also received the APS 2022 [Sakurai Dissertation Award](https://www.aps.org/programs/honors/prizes/particle.cfm) in Theoretical Particle Physics,
+though they cared more about the sections on my own research. 
  

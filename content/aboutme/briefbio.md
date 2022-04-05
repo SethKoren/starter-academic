@@ -63,4 +63,4 @@ I've also enjoyed teaching, and was involved in revamping the quantum mechanics 
 I thereafter was awarded an Excellence in Teaching award from the university-wide Graduate Student Association.
 
 I defended, graduated, and moved mid-pandemic to Chicago as an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of UChicago.
-In spring 2021 I lead an undergraduate reading seminar on introductory particle physics emphasizing quantum mechanical concepts and ending with a final project using collider simulation software to discover the Higgs from ATLAS data on VBF diphoton decays.
+[In spring 2021 I lead an undergraduate reading seminar on introductory particle physics emphasizing quantum mechanical concepts and ending with a final project using collider simulation software to discover the Higgs from ATLAS data on VBF diphoton decays.]
