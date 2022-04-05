@@ -46,7 +46,7 @@ subtitle = "A brief biographical sketch of my development as a scientist"
  # Custom CSS.
  css_style = ""
 
- # CSS class.
+ # CSS class. In spring 2021 I lead an undergraduate reading seminar on introductory particle physics emphasizing quantum mechanical concepts and ending with a final project using collider simulation software to discover the Higgs from ATLAS data on VBF diphoton decays.
  css_class = ""
 +++
 I grew up outside Philadelphia and became interested in science in high school, but went to the University of Pennsylvania for undergrad intending to get dual degrees from the College of Arts & Sciences and from Wharton, the business school. 
@@ -63,4 +63,3 @@ I've also enjoyed teaching, and was involved in revamping the quantum mechanics 
 I thereafter was awarded an Excellence in Teaching award from the university-wide Graduate Student Association.
 
 I defended, graduated, and moved mid-pandemic to Chicago as an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of UChicago.
-[In spring 2021 I lead an undergraduate reading seminar on introductory particle physics emphasizing quantum mechanical concepts and ending with a final project using collider simulation software to discover the Higgs from ATLAS data on VBF diphoton decays.]
