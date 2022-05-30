@@ -15,11 +15,7 @@ header:
 ---
 
 I will write some things here at an accessible level about some of my work. 
-For now, my publications can be viewed on [inspireHEP](https://inspirehep.net/authors/1503310).
+For now, my publications can be viewed on [inspireHEP](https://inspirehep.net/authors/1503310) or in [NASA ADS](https://ui.adsabs.harvard.edu/user/libraries/p3Td-T-LTKeAod3Gn48UEA) or on [Google Scholar](https://scholar.google.com/citations?user=yYrr0jUAAAAJ).
 
-It seems my research program has become trying to learn the past half-century of theoretical physics beyond the standard model 
-and understand all the possible hints of new physics, and then trying to point out possibilities and connections that all the brilliant 
-senior physicists who were thinking over these topics in real time as they were developed have missed. 
+My main research interest is to understand how the world around us came to be, both by learning how the universe works at its smallest scales and by understanding the evolution of the universe in its earliest moments.
 
-This is a program borne out of ignoring all sensible advice on what topics to think about and specialization and writing pedagogical materials and reading old papers. 
-As of this writing, I still believe this to be a valuable pursuit, but we shall see where it gets me.
