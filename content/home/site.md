@@ -56,4 +56,5 @@ and then you go away a bit awed and feeling like maybe you aren't sure that you 
 
 It is instead my intention to be raw and unfiltered, to be honest about myself and my experiences in and out of academia, 
 and to therefore reflect accurately the reality that you don't have to have done everything right, or have started learning science as a toddler, 
-or look any particular way, or be neurotypical to be a good physicist. I expand on this motivation elsewhere. 
+or conform to any aesthetic expectations, or be neurotypical to be a good physicist. I expand on this motivation elsewhere on this site, 
+and I also took the opportunity of accepting the APS Sakurai Award to make [some related unconventional remarks](https://youtu.be/kEyhvPKm1qo) as well.

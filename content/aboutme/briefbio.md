@@ -49,7 +49,7 @@ subtitle = "A brief biographical sketch of my development as a scientist"
  # CSS class. In spring 2021 I lead an undergraduate reading seminar on introductory particle physics emphasizing quantum mechanical concepts and ending with a final project using collider simulation software to discover the Higgs from ATLAS data on VBF diphoton decays.
  css_class = ""
 +++
-I grew up outside Philadelphia and became interested in science in high school, but went to the University of Pennsylvania for undergrad intending to get dual degrees from the College of Arts & Sciences and from Wharton, the business school, and make money. 
+I grew up outside Philadelphia and became interested in science in high school, but went to the University of Pennsylvania for undergrad intending to get dual degrees from the College of Arts & Sciences and from Wharton, the business school, and go off and make money. 
 Seeing college-level science classes for the first time, I was amazed to learn that physics was something that people were still doing and discovering and understanding, and perhaps something that I could do as well. Mid-way through my sophomore year, I decided I wanted to spend my time in college learning about the universe, and withdrew from the Wharton program.
 
 My first research opportunity was kindly provided by Prof. Cullen Blake, who gave me the chance to help him search for and characterize low-mass binary stars and exoplanets, and I was hooked. 
@@ -57,10 +57,12 @@ At Penn it was hard not to develop an interest in cosmology, and an REU gave me 
 Learning quantum mechanics my junior year amazed me, and after doing an assigned quantum mechanics book report (yes, really---my thanks in hindsight to Prof. Paul Heiney) on *The Ideas of Particle Physics* by Coughlan, Dodd and Gripaios I wanted more.
 
 I decided to attend graduate school at UC Santa Barbara to work with Prof. Nathaniel Craig, intent on broadening my horizons. 
-In graduate school I became interested in many topics in high energy theory, and I've published work on collider phenomenology, on particle cosmology, on astroparticle physics, on particle theory beyond the Standard Model, and more. 
-My thesis was focused on novel approaches to the hierarchy problem.  
+In graduate school I became interested in many topics in high energy theory, and I've published work on collider phenomenology, on particle cosmology, on astroparticle physics, on particle theory beyond the Standard Model, among other topics. 
+My thesis was focused on novel approaches to the hierarchy problem. 
+
 I've enjoyed mentoring undergraduates interested in particle physics, was awarded fellowships for summer research with undergrads twice, and have published five papers with three students who are all now in grad school themselves.
 I've also enjoyed teaching, and was involved in revamping the quantum mechanics course at UCSB to utilize active learning methods as a way to manage the challenge of a junior-level quantum class with ~150 students.
 I thereafter received the Excellence in Teaching award from the university-wide Graduate Student Association.
 
 I defended, graduated, and moved mid-pandemic to Chicago as an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of UChicago.
+I have so far tried hard to maintain broad interests across particle physics, cosmology, gravity, and field theory.
