@@ -1,5 +1,5 @@
 ---
-title: What are you
+title: 
 type: book  # Do not modify.
 toc: true
 ---
