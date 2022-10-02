@@ -15,7 +15,7 @@
 
 [[main]]
   name = "About You"
-  url = "/tcpoy"
+  url = "/aboutyou"
   weight = 30
   
 [[main]]
