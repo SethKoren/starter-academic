@@ -17,6 +17,11 @@
   name = "About You"
   url = "/tcpoy"
   weight = 30
+  
+[[main]]
+  name = "About Us"
+  url = "/aboutus"
+  weight = 35 
 
 [[main]]
   name = "More About Me"
