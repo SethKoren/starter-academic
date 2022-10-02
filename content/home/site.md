@@ -51,10 +51,10 @@ subtitle = ""
 +++
 
 This is emphatically not one of those academic websites where you learn that I always knew I wanted to do physics; or some family friend was a scientist who inspired me;
-or I won national science/math/other contests in high school; or I got a scholarship to my first-choice unversity; or I solved some longstanding open problem as an undergraduate, 
+or I won national math contests in high school; or I got a scholarship to my first-choice unversity; or I solved some longstanding open problem as an undergraduate, 
 and then you go away a bit awed and feeling like maybe you aren't sure that you can make it as a scientist yourself. There are enough such websites you may visit.  
 
-It is instead my intention to be raw and unfiltered, to be honest about myself and my experiences in and out of academia, 
+It is instead my intention to be raw and unfiltered, to be honest and overly open about myself and my experiences in and out of academia, 
 and to therefore reflect accurately the reality that you don't have to have done everything right, or have started learning science as a toddler, 
 or conform to any aesthetic expectations, or be neurotypical to be a good physicist. I expand on this motivation elsewhere on this site, 
 and I also took the opportunity of accepting the APS Sakurai Award to make [some related unconventional remarks](https://youtu.be/kEyhvPKm1qo) as well.
