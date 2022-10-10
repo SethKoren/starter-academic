@@ -27,21 +27,3 @@ The biosphere extends from the upper reaches of the atmosphere where microbes fe
 
 This is a starkly different picture of life and of the universe than anyone had before the scientific revolution. 
 Not only is this an absolutely amazing amount of progress for us to have made in just a few hundred years, but---to me, at least---this serves as reason to be skeptical of worldviews from such times.
-
-## How we got here
-
-The closest I come to grasping the enormity of the world is when I'm learning about how things have come to be. 
-I'll use the term 'the historical sciences', which I don't think has found widespread use but I think correctly expresses my interest here.
-The historical sciences are really a particular cross-section of many disciplines, constituting those parts aimed at understanding not particularly how things work or how they are, but how they developed.
-But of course the study of the other aspects of these sciences is crucial for unveiling their history as well.
-
-One of the things I find fascinating about particle cosmology is that in the early universe the details of particle physics on tiny, tiny scales controls the large-scale evolution of the universe.
-Now when one pushes further into the history of the universe and begins asking about the development of our own solar system and planet and life, we may lose out on the ability to predict the history from first principles.
-But of course we can still study how and why the sun and the earth and life have developed as they did, and it's absolutely amazing how much has been figured out by many brilliant scientists.
-One of the main things I take away from this topic is just how contingent the existence we experience is. 
-
-In any case, what I'd like to do here is collect some information throughout the full breadth of the historical sciences that collectively tell your origin story and mine. 
-Everything from particle cosmology to the formation of stars and planets to the origin and development of life and its interactions with the Earth 
-to the evolution of multicellularity and respiration and eyes and neurons and language and tool use.
-
-But I haven't done so yet, so you have my apologies as of now. Most recent apology: Feb. 2022
