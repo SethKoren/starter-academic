@@ -16,6 +16,7 @@ header:
 
 I will write some things here at an accessible level about some of my work. 
 For now, my publications can be viewed on [inspireHEP](https://inspirehep.net/authors/1503310) or in [NASA ADS](https://ui.adsabs.harvard.edu/user/libraries/p3Td-T-LTKeAod3Gn48UEA) or on [Google Scholar](https://scholar.google.com/citations?user=yYrr0jUAAAAJ).
+And a few quite general words:
 
 What are all the things that have happened, or can happen? These questions, applied at both the smallest and largest scales we can probe, underpin my research interests in particle physics and cosmology. 
 Applied on more-human scales, these same questions have been central to my unusual intellectual history. 
@@ -27,5 +28,4 @@ But let me acknowledge that this requires a strategy deviating from much familia
 This requires much time learning all the cool things that are possible in field theory and gravity, and the fantastic pictures that have been proposed for how the world works, as well as the many ways a hint of new physics may arrive. 
 
 My aim is to bring new perspectives to BSM physics by employing a broad range of ideas from field theory, particle physics, and cosmology, and engaging with a diverse set of experimental observables.
-
 
