@@ -65,4 +65,6 @@ I've also enjoyed teaching, and was involved in revamping the quantum mechanics 
 I thereafter received the Excellence in Teaching award from the university-wide Graduate Student Association.
 
 I defended, graduated, and moved mid-pandemic to Chicago as an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of UChicago.
-I have so far tried hard to maintain broad interests across particle physics, cosmology, gravity, and field theory.
+This fellowship has kindly afforded me the academic freedom to think about whichever topics I have wished. 
+Between my broad interests and my idiosyncratic ways of thinking, 
+I have tried to pursue directions connecting different fields and uncovering new possibilities for physics beyond the Standard Model.
