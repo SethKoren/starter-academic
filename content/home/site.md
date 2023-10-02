@@ -50,11 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 
-This is emphatically not one of those academic websites where you learn that I always knew I wanted to do physics; or some family friend was a scientist who inspired me;
-or I won national math contests in high school; or I got a scholarship to my first-choice unversity; or I solved some longstanding open problem as an undergraduate, 
-and then you go away a bit awed and feeling like maybe you aren't sure that you can make it as a scientist yourself. There are enough such websites you may visit.  
+You may read many academic biographies, or talk to many professors, or listen to many interviews with famous scientists where you learn about someone who always knew they wanted to do science; 
+or grew up inspired by some family friend who was a physicist;
+or who won national science contests in high school; 
+or who solved some longstanding open problem as an undergraduate, 
+and then you go away a bit awed and feeling like maybe you aren't sure that you can make it as a scientist yourself. There are enough such websites you may visit, and that is decidedly not my story.
 
-It is instead my intention to be honest and overly open about myself and my experiences in and out of academia, to be raw and unfiltered,
-and to therefore reflect accurately the reality that you don't have to have done everything right, or have started learning science as a toddler, 
-or have a brain which works like others', or conform to any aesthetic expectations in order to be a good physicist. I expand on this motivation elsewhere on this site, 
-and I also took the opportunity of accepting the APS Sakurai Award to make [some related unconventional remarks](https://youtu.be/kEyhvPKm1qo) as well.
+My interest in understanding the world scientifically was not stoked by any familial support, but contrarily arose from my need to discover how incorrect my own parents' anti-science views were, and to seek medical care for myself. It was not until mid-way through college that I understood that science was something that was still actively being discovered, and that this was a pursuit that perhaps I could hope to participate in. Now not much more than a decade later, I'm happy to have the privilege to spend my time thinking about physics professionally. But it has not been without significant costs as well.
+
+So it is my intention here to be honest and overly open about myself and my experiences in and out of academia---to be raw and unfiltered. 
+My hope is thereby to reflect the reality that you don't have to have done everything right, 
+or have started learning science as a toddler, 
+or have a brain which works like others', 
+or conform to any aesthetic or gender or sexual norms in order to be a good physicist. 
+Because I have found from myself and others that it is too easy to pick up countervailing such lessons.
+I expand on this motivation elsewhere on this site, and I also took the opportunity of accepting the APS Sakurai Award to make [some related unconventional remarks](https://youtu.be/kEyhvPKm1qo) as well.
