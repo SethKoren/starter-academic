@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Oehme Postdoctoral Fellow 
+role: Postdoctoral Researcher 
 
 # Organizations/Affiliations
 organizations:
-- name: Enrico Fermi Institute of the University of Chicago
+- name: University of Notre Dame
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -76,16 +76,14 @@ user_groups:
 
 I'm a theoretical physicist focused on understanding what exists Beyond the Standard Models of particle physics and cosmology 
 by working at the junction of high energy theory and the real world. 
-I have broad interests across many aspects of particle physics, field theory, cosmology, and gravity, 
+I have broad interests across many aspects of particle physics, field theory, and cosmology,
 and I enjoy collaborating, mentoring, and other forms of talking about physics.
 
 I'm quite proud of [my dissertation](http://arxiv.org/abs/2009.11870), which begins with an extensive introduction aiming to pedagogically explain renormalization and the hierarchy problem.
 I place considerable focus on clearing conceptual pitfalls and on debunking common misconsceptions, and I've been flattered to hear that it is a useful resource for the community.
-
-My thesis also received the APS 2022 [Sakurai Dissertation Award](https://www.aps.org/programs/honors/prizes/particle.cfm) in Theoretical Particle Physics,
-though that was more about the sections on my own research. 
+My thesis also received the APS 2022 [Sakurai Dissertation Award](https://www.aps.org/programs/honors/prizes/particle.cfm) in Theoretical Particle Physics. 
  
-Recently I was honored to be invited to give the Enrico Fermi Institute's 91st [Compton Lectures](https://efi.uchicago.edu/events/compton-lecture-series/), 
-a series of lectures each Saturday for the general public over eight weeks in Spring 2023. I delivered a wide-ranging series of lectures with the title 
+Recently I was honored to deliver the UChicago Enrico Fermi Institute's 91st [Compton Lectures](https://efi.uchicago.edu/events/compton-lecture-series/), 
+a series of lectures each Saturday for the general public over eight weeks in Spring 2023. I presented a wide-ranging course with the title 
 "Particles, the Cosmos, and You: An Origin Story from the Edges of Space and Time" aimed at presenting our well-understood, empirical answers to age-old questions 
-like "What are we made of?" and "Where did we come from?" through the lens of fundamental particle physics and cosmology.
+like "What are we made of?" and "Where did we come from?" through the lens of fundamental particle physics and cosmology. The first lecture is [available on YouTube](https://www.youtube.com/watch?v=bASDrVB086s).
