@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Seth Koren \ 
-they/them
+title: Seth Koren \ they/them
 
 # Username (this should match the folder name)
 authors:
