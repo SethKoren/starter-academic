@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Seth Koren \ they/them
+title: Seth Koren 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher 
+role: 
+- they/them
+- Postdoctoral Researcher 
 
 # Organizations/Affiliations
 organizations:
