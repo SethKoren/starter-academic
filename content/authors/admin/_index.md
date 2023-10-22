@@ -20,18 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-#My aesthetic:
-#- No More Jockeys
-#- It's Garry Shandling's Show
-#- Mr. Show w/ Bob & David
-#- Ah Um
-#- bill wurtz
-#- Pet Sounds
-#- The Rainbow Goblins
-#- Broadway Boogie-Woogie
-#- Rene and Georgette Magritte With Their Dog After the War
-#- Kraftwerk
-
 #education:
 #  courses:
 #  - course: PhD in Physics
@@ -51,7 +39,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sethk@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:skoren@nd.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: inspire
   icon_pack: ai
   link: https://inspirehep.net/author/profile/S.Koren.1
