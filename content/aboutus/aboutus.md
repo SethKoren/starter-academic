@@ -64,7 +64,7 @@ this is such an incredibly obvious fact.
 Our kinship is revealed in every combatative encounter of unfamiliar tribes of gorillas. 
 With every mother monkey showing its children which fruit are alright to eat and which are to be avoided.
 Every time young apes play with each other, or exhibit curiosity about a change of scenery.
-And really also far beyond these closest relatives of ours to deep connections to the workings of every other animal, and further.
+And really the obvious-in-hindsight similarities extend also far beyond these closest relatives of ours to deep connections to the workings of every other animal.
 
 The point is that we are all far, far more deeply connected to each other than most 'traditional cultural beliefs' teach.
 This should have an enormous impact on how we understand governance and political philosophy. 
@@ -74,7 +74,7 @@ that humans appeared on Earth quite relatively recently, and in essentially thei
 And in this framework it could at least be imagined that we had no necessary positive moral claims on each other.
 By which I mean that in our original forms we are separate entities who are entirely disjointed and any association of you and I should be entered into voluntarily.
  
-Not so. There really is no way that you can live your life in a way that does not influence that of others.
+Not so. We are inextricably associated already. There really is no way that you can live your life in a way that does not influence that of others.
 This long shared history means that, for example, we may unwittingly transmit contagious respiratory infections to each other. 
 This by itself means there are in-principle limits on autonomy, as necessarily there are ways to accidentally harm other people.
 We are also deeply dependent on the same natural resources, and have the same basic social needs, from living quarters to waste disposal to nourishment.

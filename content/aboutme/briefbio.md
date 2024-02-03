@@ -56,15 +56,13 @@ My first research opportunity was kindly provided by Prof. Cullen Blake, who gav
 At Penn it was hard not to develop an interest in cosmology, and an REU gave me the opportunity to work with Prof. Edward Wright at UCLA (okay, on asteroid thermophysics, but Dr. Wright exudes cosmology regardless).
 Learning quantum mechanics my junior year amazed me, and after doing an assigned quantum mechanics book report (yes, really---my thanks in hindsight to Prof. Paul Heiney) on *The Ideas of Particle Physics* by Coughlan, Dodd and Gripaios I wanted more.
 
-I decided to attend graduate school at UC Santa Barbara to work with Prof. Nathaniel Craig, intent on broadening my horizons. 
-In graduate school I became interested in many topics in high energy theory, and I've published work on collider phenomenology, on particle cosmology, on astroparticle physics, on particle theory beyond the Standard Model, among other topics. 
-My thesis was focused on novel approaches to the hierarchy problem. 
+I was intent on broadening my horizons and decided to attend graduate school at UC Santa Barbara to work with Prof. Nathaniel Craig, a brilliant and enthusiastic young particle theorist. And indeed I became interested in many topics in high energy theory, very broadly defined---any way for us to learn more about the fundamental physics of our universe. As a graduate student I published work on collider phenomenology, on particle cosmology, on astroparticle physics, on particle theory beyond the Standard Model, and on the impact of developments in field theory and gravity theory to our understanding of the real world. 
+My thesis was focused on novel approaches to the electroweak hierarchy problem. 
 
-I've enjoyed mentoring undergraduates interested in particle physics, was awarded fellowships for summer research with undergrads twice, and have published five papers with three students who are all now in grad school themselves.
-I've also enjoyed teaching, and was involved in revamping the quantum mechanics course at UCSB to utilize active learning methods as a way to manage the challenge of a junior-level quantum class with ~150 students.
+In graduate school I enjoyed mentoring undergraduates interested in particle physics, was awarded fellowships for summer research with undergrads twice, and published five papers with three students who all then went to grad school themselves.
+I also enjoyed teaching, and was involved in revamping the quantum mechanics course at UCSB to utilize active learning methods as a way to manage the challenge of a junior-level quantum class with ~150 students.
 I thereafter received the Excellence in Teaching award from the university-wide Graduate Student Association.
 
-I defended, graduated, and moved mid-pandemic to Chicago as an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of UChicago.
-This fellowship has kindly afforded me the academic freedom to think about whichever topics I have wished. 
+In summer 2020 I defended, graduated, and moved to Chicago as an Oehme Postdoctoral Fellow at the Enrico Fermi Institute of UChicago. This fellowship kindly afforded me the academic freedom to think about whichever topics I wished. The academic environment at UChicago was phenomenal, and the professors were very kind.
 Between my broad interests and my idiosyncratic ways of thinking, 
 I have tried to pursue directions connecting different fields and uncovering new possibilities for physics beyond the Standard Model.
