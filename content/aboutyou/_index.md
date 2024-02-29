@@ -1,10 +1,18 @@
 ---
-title: 
-type: book  # Do not modify.
-toc: true
----
+title: What's going on
 
-## What's going on
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: 4
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
 One day you awoke understanding you were experiencing reality. 
 You have some limited window from your internal world through which you may peer out into the universe. 
