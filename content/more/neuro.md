@@ -15,3 +15,7 @@ It has also led to a revisiting of my life experiences through different lenses.
 
 And it has also led to some reflection on my experiences with gender and the expression thereof. As you may imagine, serious neuroendocrine (that is, hormonal) dysfunction has some interplay there.
 More reflection is required before I write my thoughts in depth here.
+
+...
+
+I return a few years later with apologies for having taken so long. It's a nontrivial process to connect 'how I understood things as I experienced them in real time' with a better description based on a re-analysis of my life with a better understanding of what was actually going on. This is very broadly something I have had to spend much time on: Understanding myself better in light of my neuroendocrine tumor diagnosis and my subsequent study of science.
